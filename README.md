@@ -1,5 +1,8 @@
-# Plotify-2019
-Repository for the Plotify Project
+# Plotify
+Creates a collage of the album covers in a user's spotify library
+
+## Example output:
+![example](example.png)
 
 ## How to run (javascript version)
 
